@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/OCP/src/datesAndTimes/Dates.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="datesAndTimes.Dates"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="OCP"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djavax.net.ssl.trustStoreType=pkcs12 &#13;&#10;-Djavax.net.ssl.trustStore=main.resource/rest.p12 &#13;&#10;-Djavax.net.ssl.trustStorePassword=tru5tpassw0rd"/>
+</launchConfiguration>

@@ -1,0 +1,9 @@
+
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÊñ‰şÿÿÿÿHZRMAJORZ
+CODE_SMELL
+rsquid:S1126"AReplace this if-then-else statement by a single return statement.(ØàÆşÿÿÿÿH[RMINORZ
+CODE_SMELL
+usquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑãHYRMINORZBUG
+Wsquid:S1068"&Remove this unused "id" private field.(ôç¼ÓşÿÿÿÿHXRMAJORZ
+CODE_SMELL

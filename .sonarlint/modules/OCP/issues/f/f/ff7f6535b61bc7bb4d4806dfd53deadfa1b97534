@@ -1,0 +1,10 @@
+
+‚squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›­ RMINORZ
+CODE_SMELL
+vsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ßŒ¸âşÿÿÿÿRMAJORZ
+CODE_SMELL
+Nsquid:S2153"&Remove the boxing of "numberOfWheels".(™ÙèøÿÿÿÿRMINORZBUG
+„squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ‡ÉRMINORZ
+CODE_SMELL
+Psquid:S2129"!Remove this "Integer" constructor(™ÙèøÿÿÿÿRMAJORZ
+CODE_SMELL

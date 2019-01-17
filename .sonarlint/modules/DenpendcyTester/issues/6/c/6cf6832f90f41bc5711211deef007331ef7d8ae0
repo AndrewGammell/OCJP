@@ -1,0 +1,14 @@
+
+Wsquid:S1481	"*Remove this unused "query" local variable.(ÙĞÒğHRMINORZ
+CODE_SMELL
+ksquid:S1854"9Remove this useless assignment to local variable "query".(ïœô÷ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î8İŠÄ—À,H¤RMAJORZ
+CODE_SMELL
+asquid:EmptyStatementUsageCheck"Remove this empty statement.(ïœô÷ûÿÿÿÿH‹RMINORZ
+CODE_SMELL
+ksquid:S1854"9Remove this useless assignment to local variable "query".(´™˜ÓşÿÿÿÿHRMAJORZ
+CODE_SMELL
+xsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Â·¬èHŒRMINORZ
+CODE_SMELL

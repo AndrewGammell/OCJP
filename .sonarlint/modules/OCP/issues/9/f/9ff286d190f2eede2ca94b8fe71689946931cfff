@@ -1,0 +1,23 @@
+
+ysquid:S1192"GDefine a constant instead of duplicating this literal "Andrew" 3 times.(ë–ÒÔùÿÿÿÿRCRITICALZ
+CODE_SMELL
+xsquid:S1192'"FDefine a constant instead of duplicating this literal "David" 3 times.(Ë€ĞÒúÿÿÿÿRCRITICALZ
+CODE_SMELL
+ˆsquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿRMINORZ
+CODE_SMELL
+ˆsquid:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿRMINORZ
+CODE_SMELL
+‚squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ŠüRMINORZ
+CODE_SMELL
+b
+squid:S106"9Replace this use of System.out or System.err by a logger.(³±¿RMAJORZ
+CODE_SMELL
+a
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶øURMAJORZ
+CODE_SMELL
+Vsquid:S1612",Replace this lambda with a method reference.(³±¿RMINORZ
+CODE_SMELL
+{squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶øURMINORZ
+CODE_SMELL
+{squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶øURMINORZ
+CODE_SMELL

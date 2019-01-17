@@ -1,0 +1,23 @@
+
+\squid:EmptyStatementUsageCheck\"Remove this empty statement.(»Éä‘HğRMINORZ
+CODE_SMELL
+asquid:EmptyStatementUsageCheck]"Remove this empty statement.(í×ÿØúÿÿÿÿHñRMINORZ
+CODE_SMELL
+Xsquid:S1989a"(Add a "try/catch" block for "getWriter".(·µÅHòRMINORZVULNERABILITY
+]squid:S1989d"(Add a "try/catch" block for "getWriter".(ËÜ¯›ûÿÿÿÿHóRMINORZVULNERABILITY
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ€áşÿÿÿÿHôRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æ†ŒûÿÿÿÿHõRMAJORZ
+CODE_SMELL
+e
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ÏÛ‚íHöRMAJORZ
+CODE_SMELL
+}squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ò´­"H÷RMAJORZBUG
+Wsquid:S00108A")Either remove or fill this block of code.(”ı¾HøRMAJORZ
+CODE_SMELL
+Wsquid:S00108J")Either remove or fill this block of code.(”ı¾HùRMAJORZ
+CODE_SMELL
+„squid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù”ÉèıÿÿÿÿHúRMINORZ
+CODE_SMELL
+Xsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHûRMINORZVULNERABILITY
+Xsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHüRMINORZVULNERABILITY

@@ -1,0 +1,10 @@
+
+gsquid:S1854"5Remove this useless assignment to local variable "i".(…Ğ¾ãüÿÿÿÿHRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò°ÿºHŒRMAJORZ
+CODE_SMELL
+Xsquid:S1481"&Remove this unused "i" local variable.(…Ğ¾ãüÿÿÿÿHRMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕÅÎHRMINORZ
+CODE_SMELL

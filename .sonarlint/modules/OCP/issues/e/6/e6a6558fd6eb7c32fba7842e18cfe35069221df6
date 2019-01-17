@@ -1,0 +1,17 @@
+
+Ésquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¸ŒåRMINORZ
+CODE_SMELL
+a
+squid:S106"9Replace this use of System.out or System.err by a logger.(€”¬GRMAJORZ
+CODE_SMELL
+b
+squid:S106"9Replace this use of System.out or System.err by a logger.(√≥Ù’RMAJORZ
+CODE_SMELL
+[squid:S1612",Replace this lambda with a method reference.(£ıÎ›¸ˇˇˇˇRMINORZ
+CODE_SMELL
+Vsquid:S1612",Replace this lambda with a method reference.(Âªù‡RMINORZ
+CODE_SMELL
+Vsquid:S1612",Replace this lambda with a method reference.(√≥Ù’RMINORZ
+CODE_SMELL
+Ysquid:S1611"/Remove the parentheses around the "x" parameter(√≥Ù’RMINORZ
+CODE_SMELL
