@@ -35,4 +35,5 @@ public class GenericClass<T> implements GenericInterface<T> {
 		return t;				However the formal generic <T> declaration is only needed if the method is static.
 	}
 */
+
 }
